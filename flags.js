@@ -263,3 +263,5 @@ export { default as YT } from 'flag-icons/flags/1x1/yt.svg';
 export { default as ZA } from 'flag-icons/flags/1x1/za.svg';
 export { default as ZM } from 'flag-icons/flags/1x1/zm.svg';
 export { default as ZW } from 'flag-icons/flags/1x1/zw.svg';
+
+export { default as TLH } from './custom-flags/tlh.svg'
