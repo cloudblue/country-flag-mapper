@@ -53,6 +53,7 @@ const localeFlags = {
   [locales.KANNADA]: flags.IN,
   [locales.KAZAKH]: flags.KZ,
   [locales.KHMER]: flags.KH,
+  [locales.KLINGON]: flags.TLH,
   [locales.KOREAN]: flags.KR,
   [locales.KYRGYZ]: flags.KG,
   [locales.LATVIAN]: flags.LV,

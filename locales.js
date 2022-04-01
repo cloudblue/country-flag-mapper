@@ -57,6 +57,7 @@ export default {
   KAZAKH: 'kk',
   KHMER: 'km',
   KANNADA: 'kn',
+  KLINGON: 'tlh-latn',
   KOREAN: 'ko',
   KYRGYZ: 'ky',
   LUXEMBOURGISH: 'lb',
