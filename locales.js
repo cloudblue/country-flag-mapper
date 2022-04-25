@@ -51,7 +51,7 @@ export default {
   IDO: 'io',
   ICELANDIC: 'is',
   ITALIAN: 'it',
-  JAPANESE: 'jp',
+  JAPANESE: 'ja',
   GEORGIAN: 'ka',
   KABYLE: 'kab',
   KAZAKH: 'kk',

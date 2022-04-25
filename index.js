@@ -21,7 +21,7 @@ const localeFlags = {
   [locales.BURMESE]: flags.MM,
   [locales.CATALAN]: flags.ES_CT,
   [locales.COLOMBIAN_SPANISH]: flags.CO,
-  [locales.CR]: flags.HR,
+  [locales.CROATIAN]: flags.HR,
   [locales.CZECH]: flags.CZ,
   [locales.DANISH]: flags.DK,
   [locales.DUTCH]: flags.NL,
