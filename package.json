@@ -1,6 +1,6 @@
 {
   "name": "@cloudblueconnect/country-flag-mapper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Country flags as SVG icons mapped to country and locale IDs",
   "main": "index.js",
   "repository": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/cloudblue/country-flag-mapper#readme",
   "dependencies": {
-    "flag-icons": "^6.1.1"
+    "flag-icons": "^6.11.1"
   },
   "sideEffects": false
 }
