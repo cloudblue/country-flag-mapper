@@ -63,7 +63,6 @@ export { default as DK } from 'flag-icons/flags/1x1/dk.svg';
 export { default as DM } from 'flag-icons/flags/1x1/dm.svg';
 export { default as DO } from 'flag-icons/flags/1x1/do.svg';
 export { default as DZ } from 'flag-icons/flags/1x1/dz.svg';
-export { default as EA } from 'flag-icons/flags/1x1/ea.svg';
 export { default as EC } from 'flag-icons/flags/1x1/ec.svg';
 export { default as EE } from 'flag-icons/flags/1x1/ee.svg';
 export { default as EG } from 'flag-icons/flags/1x1/eg.svg';
