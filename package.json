@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/cloudblue/country-flag-mapper#readme",
   "dependencies": {
-    "flag-icons": "^6.11.1"
+    "flag-icons": "6.11.1"
   },
   "sideEffects": false
 }
